@@ -16,6 +16,4 @@ A mini-project exploring bit trees (a form of binary tree) and their use in tran
 ## **Instructions for Use**
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/USERNAME/mp-bit-trees-maven.git
-   cd mp-bit-trees-maven
+   https://github.com/moistr203/mp-bit-trees-maven
